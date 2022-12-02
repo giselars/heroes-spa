@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # images
-src/assets/heroes/*.jpg
+/assets/heroes/*.jpg
